@@ -50,6 +50,8 @@ This line means that for every URL that starts with `admin/`, Django will find a
 ## Your first Django URL!
 
 Time to create our first URL! We want 'http://127.0.0.1:8000/' to be the home page of our blog and to display a list of posts.
+  முதல் இணையததால  முகவரியை உருவாக்க நேரம் இது . 
+   வலைப்பதிவில்  'http://127.0.0.1:8000/' ,இதுவே நம்  முகப்பாக  இருக்க வேண்டும். 
 
 We also want to keep the `mysite/urls.py` file clean, so we will import URLs from our `blog` application to the main `mysite/urls.py` file.
 

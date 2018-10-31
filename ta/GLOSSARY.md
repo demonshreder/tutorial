@@ -5,4 +5,5 @@ Augmented reality- மிகைப்படுத்தப்பட்ட மெ
 Cloud Computing- கொளுவுக் கணிமை
 Internet- இணையம்
 Algorithm- வினைச்சரம்
-blockchain- தொகுப்புத் தொடர் பேரேடு
+Artificial Intelligence-செயற்கை அறி திறன்
+blockchain- தொகுப்புத் தொடர் பேரேட

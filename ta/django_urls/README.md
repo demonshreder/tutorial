@@ -74,6 +74,8 @@ Django will now redirect everything that comes into 'http://127.0.0.1:8000/' to 
 
 Create a new empty file named `urls.py` in the `blog` directory, and open it in the code editor. All right! Add these first two lines:
 
+வலைப்பதிவு விவரப்பதாகத்தில், 'url.py'  என்ற புதிய வேற்று கோப்பில் உருவாக்குங்கள்,அதை குறியீடு ஆசிரியர் மூலம் திறங்கள்.
+
 {% filename %}blog/urls.py{% endfilename %}
 ```python
 from django.urls import path

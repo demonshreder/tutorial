@@ -6,3 +6,4 @@ Cloud Computing- கொளுவுக் கணிமை
 Internet- இணையம்
 Algorithm- வினைச்சரம்
 Artificial Intelligence-செயற்கை அறி திறன்
+blockchain- தொகுப்புத் தொடர் பேரேட

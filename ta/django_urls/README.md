@@ -52,6 +52,7 @@ This line means that for every URL that starts with `admin/`, Django will find a
 Time to create our first URL! We want 'http://127.0.0.1:8000/' to be the home page of our blog and to display a list of posts.
 
 We also want to keep the `mysite/urls.py` file clean, so we will import URLs from our `blog` application to the main `mysite/urls.py` file.
+`mysite/urls.py` , இதை  நாம் சுத்தமாய் வைத்துகளை வேண்டும்.
 
 Go ahead, add a line that will import `blog.urls`. You will also need to change the first line because we are using the `include` function here, so you will need to add that import to the line.
 

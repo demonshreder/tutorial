@@ -10,6 +10,8 @@ We're about to build our first webpage: a homepage for your blog! But first, let
 
 A URL is a web address. You can see a URL every time you visit a website – it is visible in your browser's address bar. (Yes! `127.0.0.1:8000` is a URL! And `https://djangogirls.org` is also a URL.)
 
+ஒரு இணையத்தள முகவரி என்பது ஒரு இணைய முகவரி. நீங்கள் இணையதள முகவரியை, இணையதளத்திற்கு வருகை தரும் நேரத்தில்  காண முடியும்.
+
 ![Url](images/url.png)
 
 Every page on the Internet needs its own URL. This way your application knows what it should show to a user who opens that URL. In Django, we use something called `URLconf` (URL configuration). URLconf is a set of patterns that Django will try to match the requested URL to find the correct view.
